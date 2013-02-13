@@ -1,0 +1,22 @@
+{
+  "name": "recognizer",
+  "version": "0.0.0",
+  "description": "A canvas sketch recognizer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geli1988/recognizer.js.git"
+  },
+  "author": "Li Ge",
+  "license": "BSD",
+  "keywords": [
+    "sketch",
+    "recognize"
+  ],
+  "dependencies": {
+    "lodash": "~1.0.0-rc.3"
+  }
+}
