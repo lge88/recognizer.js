@@ -1,0 +1,15 @@
+{
+  "name": "recognizer.js",
+  "repo": "lge88/recognizer.js",
+  "description": "Html5 sketch gesture recognizer",
+  "version": "1.0.0",
+  "keywords": ["sketch", "recognition", "gesture"],
+  "dependencies": {
+    "lge88/underscore": ">=1.4.3"
+  },
+  "license": "MIT",
+  "scripts": [
+    "lib/recognizer.js"
+  ],
+  "main": "lib/recognizer.js"
+}
